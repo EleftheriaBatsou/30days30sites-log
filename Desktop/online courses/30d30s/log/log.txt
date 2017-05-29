@@ -1,0 +1,7 @@
+30Days30Sites
+
+Day 1
+Date: 29-05
+Theme: Portfolio
+Codepen: https://codepen.io/EleftheriaBatsou/full/xdNeJZ/
+Github: https://eleftheriabatsou.github.io/portfolio-d1-30days30sites/
