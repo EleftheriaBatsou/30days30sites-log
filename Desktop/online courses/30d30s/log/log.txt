@@ -22,5 +22,5 @@ Github: https://eleftheriabatsou.github.io/attraction-d3-30days30sites/
 Day 4
 Date: 1-06
 Theme: Product Site
-Codepen: 
-Github: 
+Codepen: https://codepen.io/EleftheriaBatsou/full/gWNvpz/
+Github: https://eleftheriabatsou.github.io/product-site-d4-30days30sites/
