@@ -1,4 +1,5 @@
 30Days30Sites
+Build 30 sites in 30days
 
 Day 1
 Date: 29-05
@@ -11,3 +12,15 @@ Date: 30-05
 Theme: Event
 Codepen: https://codepen.io/EleftheriaBatsou/full/ZKdeqd/
 Github: https://eleftheriabatsou.github.io/event-d2-30days30sites/
+
+Day 3
+Date: 31-05
+Theme: Tourist Attraction
+Codepen: https://codepen.io/EleftheriaBatsou/full/ybdzrJ/
+Github: https://eleftheriabatsou.github.io/attraction-d3-30days30sites/
+
+Day 4
+Date: 1-06
+Theme: 
+Codepen: 
+Github: 
