@@ -5,3 +5,9 @@ Date: 29-05
 Theme: Portfolio
 Codepen: https://codepen.io/EleftheriaBatsou/full/xdNeJZ/
 Github: https://eleftheriabatsou.github.io/portfolio-d1-30days30sites/
+
+Day 2
+Date: 30-05
+Theme: Event
+Codepen: https://codepen.io/EleftheriaBatsou/full/ZKdeqd/
+Github: https://eleftheriabatsou.github.io/event-d2-30days30sites/
