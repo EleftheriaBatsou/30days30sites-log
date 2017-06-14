@@ -32,10 +32,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/Qveyyq/
 Github: https://eleftheriabatsou.github.io/restaurant-menu-d5-30days30sites/
 
 Day 6
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 14-06
+Theme: Author / Book
+Codepen: https://codepen.io/EleftheriaBatsou/full/JJRLze/
+Github: https://eleftheriabatsou.github.io/book-author-d6-30days30sites/
 
 Day 7
 Date: 
