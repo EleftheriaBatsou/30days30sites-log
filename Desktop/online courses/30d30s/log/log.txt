@@ -38,10 +38,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/JJRLze/
 Github: https://eleftheriabatsou.github.io/book-author-d6-30days30sites/
 
 Day 7
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 17-06
+Theme: Movie / Trailer
+Codepen: https://codepen.io/EleftheriaBatsou/full/PjWKZY/
+Github:https://eleftheriabatsou.github.io/movie-d7-30Days30Sites/#!/
 
 Day 8
 Date: 
@@ -68,6 +68,54 @@ Codepen:
 Github:
 
 Day 12
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 13
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 14
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 15
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 16
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 17
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 18
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 19
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 20
 Date: 
 Theme: 
 Codepen: 
