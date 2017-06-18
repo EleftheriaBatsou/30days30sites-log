@@ -44,10 +44,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/PjWKZY/
 Github:https://eleftheriabatsou.github.io/movie-d7-30Days30Sites/#!/
 
 Day 8
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 18-6
+Theme: Celebrity Fan Page
+Codepen: https://codepen.io/EleftheriaBatsou/full/mwRzxm/
+Github:https://eleftheriabatsou.github.io/celebrityfanpage-d8-30Days30Sites/
 
 Day 9
 Date: 
