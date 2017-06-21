@@ -50,10 +50,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/mwRzxm/
 Github:https://eleftheriabatsou.github.io/celebrityfanpage-d8-30Days30Sites/
 
 Day 9
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 21-6
+Theme: Children's Toy / Game
+Codepen: https://codepen.io/EleftheriaBatsou/full/mwwbZE/
+Github: https://eleftheriabatsou.github.io/ChildrenGame-D9-30Days30Sites/
 
 Day 10
 Date: 
