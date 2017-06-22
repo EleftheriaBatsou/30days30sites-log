@@ -56,10 +56,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/mwwbZE/
 Github: https://eleftheriabatsou.github.io/ChildrenGame-D9-30Days30Sites/
 
 Day 10
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 22-6
+Theme: Photograher
+Codepen: https://codepen.io/EleftheriaBatsou/full/owwQwj/
+Github: https://eleftheriabatsou.github.io/photohgrapher-d10-30Days30Sites/
 
 Day 11
 Date: 
