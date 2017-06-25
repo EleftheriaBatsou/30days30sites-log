@@ -62,10 +62,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/owwQwj/
 Github: https://eleftheriabatsou.github.io/photohgrapher-d10-30Days30Sites/
 
 Day 11
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 25-6
+Theme: Mobile services / events
+Codepen: https://codepen.io/EleftheriaBatsou/full/zzEwjE/
+Github: https://eleftheriabatsou.github.io/Mobile-events-D11-30Days30Sites/
 
 Day 12
 Date: 
