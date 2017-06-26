@@ -68,10 +68,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/zzEwjE/
 Github: https://eleftheriabatsou.github.io/Mobile-events-D11-30Days30Sites/
 
 Day 12
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 26-6
+Theme: Book Club
+Codepen: https://codepen.io/EleftheriaBatsou/full/MoExXG/
+Github: https://eleftheriabatsou.github.io/book-club-d12-30days30sites/
 
 Day 13
 Date: 
