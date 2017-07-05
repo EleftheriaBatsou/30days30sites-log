@@ -74,10 +74,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/MoExXG/
 Github: https://eleftheriabatsou.github.io/book-club-d12-30days30sites/
 
 Day 13
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 5-07
+Theme: Beverage site
+Codepen: https://codepen.io/EleftheriaBatsou/full/LLrKeZ/
+Github: https://eleftheriabatsou.github.io/beverage-site-d13-30days30sites/
 
 Day 14
 Date: 
