@@ -80,10 +80,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/LLrKeZ/
 Github: https://eleftheriabatsou.github.io/beverage-site-d13-30days30sites/
 
 Day 14
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 10-07
+Theme: Printit 
+Codepen: https://codepen.io/EleftheriaBatsou/full/Mozoam/
+Github: https://eleftheriabatsou.github.io/printit-d14-30days30sites/
 
 Day 15
 Date: 
