@@ -86,10 +86,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/Mozoam/
 Github: https://eleftheriabatsou.github.io/printit-d14-30days30sites/
 
 Day 15
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 11-07
+Theme: Motivational Speaker
+Codepen: https://codepen.io/EleftheriaBatsou/full/yXGLQP/
+Github:https://eleftheriabatsou.github.io/MotivationalSpeaker-D15-30days30sites/
 
 Day 16
 Date: 
