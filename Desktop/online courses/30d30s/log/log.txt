@@ -92,10 +92,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/yXGLQP/
 Github:https://eleftheriabatsou.github.io/MotivationalSpeaker-D15-30days30sites/
 
 Day 16
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 11-07
+Theme: Charitable Organazition
+Codepen: https://codepen.io/EleftheriaBatsou/full/WOLreO/
+Github: https://eleftheriabatsou.github.io/CharitableOrganazition-D16-30days30sites/
 
 Day 17
 Date: 
