@@ -98,10 +98,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/WOLreO/
 Github: https://eleftheriabatsou.github.io/CharitableOrganazition-D16-30days30sites/
 
 Day 17
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 12-07
+Theme: Clothing / fashion site
+Codepen: https://codepen.io/EleftheriaBatsou/full/WOLWyM/
+Github: https://eleftheriabatsou.github.io/clothingshop-D17-30days30sites/
 
 Day 18
 Date: 
