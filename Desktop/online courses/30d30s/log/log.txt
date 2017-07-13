@@ -104,10 +104,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/WOLWyM/
 Github: https://eleftheriabatsou.github.io/clothingshop-D17-30days30sites/
 
 Day 18
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 13-07
+Theme: Cruize ship
+Codepen: https://codepen.io/EleftheriaBatsou/full/PjVaBe/
+Github: https://eleftheriabatsou.github.io/Cruiseship-D18-30days30sites/
 
 Day 19
 Date: 
@@ -116,6 +116,66 @@ Codepen:
 Github:
 
 Day 20
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 21
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 22
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 23
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 24
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 25
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 26
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 27
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 28
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 29
+Date: 
+Theme: 
+Codepen: 
+Github:
+
+Day 30
 Date: 
 Theme: 
 Codepen: 
