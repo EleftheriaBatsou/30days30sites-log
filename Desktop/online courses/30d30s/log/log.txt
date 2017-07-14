@@ -110,10 +110,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/PjVaBe/
 Github: https://eleftheriabatsou.github.io/Cruiseship-D18-30days30sites/
 
 Day 19
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 14-07
+Theme: Candy - New flavor
+Codepen: https://codepen.io/EleftheriaBatsou/full/jwJLVy/
+Github: https://eleftheriabatsou.github.io/Candy-Newflavor-D19-30days30sites/
 
 Day 20
 Date: 
