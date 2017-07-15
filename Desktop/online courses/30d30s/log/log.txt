@@ -116,10 +116,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/jwJLVy/
 Github: https://eleftheriabatsou.github.io/Candy-Newflavor-D19-30days30sites/
 
 Day 20
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 15-07
+Theme: Blog landing page
+Codepen: https://codepen.io/EleftheriaBatsou/full/Moxdoz/
+Github: https://eleftheriabatsou.github.io/BlogLandingPage-d20-30days30sites/
 
 Day 21
 Date: 
