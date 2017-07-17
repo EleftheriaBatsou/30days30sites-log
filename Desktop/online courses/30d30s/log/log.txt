@@ -122,10 +122,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/Moxdoz/
 Github: https://eleftheriabatsou.github.io/BlogLandingPage-d20-30days30sites/
 
 Day 21
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 17-07
+Theme: Email Newsletter Template
+Codepen: https://codepen.io/EleftheriaBatsou/full/pwBMWE/
+Github: https://eleftheriabatsou.github.io/EmailNewsletterTemplate-d21-30days30sites/
 
 Day 22
 Date: 
