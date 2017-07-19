@@ -128,10 +128,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/pwBMWE/
 Github: https://eleftheriabatsou.github.io/EmailNewsletterTemplate-d21-30days30sites/
 
 Day 22
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 19-07
+Theme: Weight Loss Product Programm
+Codepen: https://codepen.io/EleftheriaBatsou/full/qjzYqj/
+Github: https://eleftheriabatsou.github.io/WeightLossProduct-D22-30Days30Sites/
 
 Day 23
 Date: 
