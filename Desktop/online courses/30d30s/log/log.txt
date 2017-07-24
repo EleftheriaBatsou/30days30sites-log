@@ -134,10 +134,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/qjzYqj/
 Github: https://eleftheriabatsou.github.io/WeightLossProduct-D22-30Days30Sites/
 
 Day 23
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 24-07
+Theme: Landscaper
+Codepen: https://codepen.io/EleftheriaBatsou/full/xLxzEg/
+Github: https://eleftheriabatsou.github.io/Landscaper-d23-30days30sites/
 
 Day 24
 Date: 
