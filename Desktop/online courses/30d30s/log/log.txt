@@ -140,10 +140,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/xLxzEg/
 Github: https://eleftheriabatsou.github.io/Landscaper-d23-30days30sites/
 
 Day 24
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 27-07
+Theme: Recipe Site
+Codepen: https://codepen.io/EleftheriaBatsou/full/zdGgEJ/
+Github: https://eleftheriabatsou.github.io/recipesite-d24-30days30sites/
 
 Day 25
 Date: 
