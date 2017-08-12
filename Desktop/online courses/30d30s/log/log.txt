@@ -146,10 +146,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/zdGgEJ/
 Github: https://eleftheriabatsou.github.io/recipesite-d24-30days30sites/
 
 Day 25
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 12-08
+Theme: Game's official site
+Codepen: https://codepen.io/EleftheriaBatsou/full/EvvwgM/
+Github:  https://eleftheriabatsou.github.io/Game-sOfficialSite-d25-30days30sites/
 
 Day 26
 Date: 
