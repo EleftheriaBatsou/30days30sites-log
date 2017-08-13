@@ -152,16 +152,16 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/EvvwgM/
 Github:  https://eleftheriabatsou.github.io/Game-sOfficialSite-d25-30days30sites/
 
 Day 26
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: -
+Theme: lost the email
+Codepen: --
+Github: --
 
 Day 27
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 13-08
+Theme: TV Show
+Codepen: https://codepen.io/EleftheriaBatsou/full/JyyBaJ/
+Github: https://eleftheriabatsou.github.io/tvshow-d27-30days30sites/
 
 Day 28
 Date: 
