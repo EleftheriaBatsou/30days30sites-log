@@ -164,10 +164,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/JyyBaJ/
 Github: https://eleftheriabatsou.github.io/tvshow-d27-30days30sites/
 
 Day 28
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 14-08
+Theme: Digital Agency
+Codepen: https://codepen.io/EleftheriaBatsou/full/RZLxdz/
+Github: https://eleftheriabatsou.github.io/digitalAgency-D28-30Days30Sites/
 
 Day 29
 Date: 
