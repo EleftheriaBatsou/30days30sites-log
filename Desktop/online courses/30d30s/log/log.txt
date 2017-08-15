@@ -170,10 +170,10 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/RZLxdz/
 Github: https://eleftheriabatsou.github.io/digitalAgency-D28-30Days30Sites/
 
 Day 29
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 15-08
+Theme: Online Resume
+Codepen: https://codepen.io/EleftheriaBatsou/full/wqPMBN/
+Github: https://eleftheriabatsou.github.io/onlineresume-d29-30days30sites/
 
 Day 30
 Date: 
