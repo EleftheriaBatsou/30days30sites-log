@@ -176,8 +176,8 @@ Codepen: https://codepen.io/EleftheriaBatsou/full/wqPMBN/
 Github: https://eleftheriabatsou.github.io/onlineresume-d29-30days30sites/
 
 Day 30
-Date: 
-Theme: 
-Codepen: 
-Github:
+Date: 16-08
+Theme: 404 page
+Codepen: https://codepen.io/EleftheriaBatsou/full/WEdvNQ/ 
+Github: https://eleftheriabatsou.github.io/humorour404page-d30-30days30sites/
 
